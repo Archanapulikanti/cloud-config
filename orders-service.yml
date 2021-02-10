@@ -1,0 +1,6 @@
+configuration:  
+  projectName: orders-service
+server:
+  port: 8010
+message:
+  greeting: Hello from the orders service configuration!
